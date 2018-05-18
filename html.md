@@ -3,7 +3,7 @@
     （1）行内元素有：a b span img input select strong  
     （2）块级元素有：div ul ol li dl dt dd h1 h2 h3 h4 … p  
     （3）常见的空元素：br hr img input link meta  
-        鲜为人知的是：area base col command embed keygen param source track wbr
+         鲜为人知的是：area base col command embed keygen param source track wbr
 
 1. 页面导入样式时，使用link和@import有什么区别？  
    （1）link属于XHTML标签，除了加载CSS外，还能用于定义RSS,定义rel连接属性等作用;而@import是CSS提供的，只能用于加载CSS;  
@@ -32,8 +32,8 @@
             <script> src="http://html5shim.googlecode.com/svn/trunk/html5.js"</script>
             <![endif]--> 
     ```
-  如何区分：  
-    DOCTYPE声明\新增的结构元素\功能元素  
+    如何区分：  
+      DOCTYPE声明\新增的结构元素\功能元素   
 
 1. 语义化的理解？  
   + 用正确的标签做正确的事情！  
